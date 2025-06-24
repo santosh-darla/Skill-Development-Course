@@ -53,7 +53,7 @@ ShoppingCartApp/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/swayamprakashm/Skill-Development-Lab/Experiment-01_Shopping-cart-app_CSS/Shopping-cart-app.git
+   git clone https://github.com/santosh-darla/Skill-Development-Course/Experiment-01_Shopping-cart-app_CSS/Shopping-cart-app.git
    ```
 2. Navigate to the project directory:
 
