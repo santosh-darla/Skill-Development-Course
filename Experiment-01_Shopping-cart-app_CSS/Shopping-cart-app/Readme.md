@@ -19,7 +19,6 @@ This application allows users to register, log in, browse a product catalog, add
 ### **Project Structure**
 
 ```
-
 ShoppingCartApp/
 │── public/
 │   ├── css/
@@ -39,8 +38,7 @@ ShoppingCartApp/
 │── server.js                # Node.js Express server
 │── package.json             # Project dependencies and scripts
 │── README.md                # Project documentation
-
-````
+```
 
 ---
 
@@ -55,9 +53,8 @@ ShoppingCartApp/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/santosh-darla/Skill-Development-Course/Experiment-01_Shopping-cart-app_CSS/Shopping-cart-app.git
-````
-
+   git clone https://github.com/swayamprakashm/Skill-Development-Lab/Experiment-01_Shopping-cart-app_CSS/Shopping-cart-app.git
+   ```
 2. Navigate to the project directory:
 
    ```bash
@@ -89,8 +86,8 @@ This project is **open-source** and free to use.
 
 ### **Developed by:**
 
-• **D. Santosh**
+•**D Santosh**
 
-• GitHub: [https://github.com/santosh-darla](https://github.com/santosh-darla)
+•GitHub: [https://github.com/santosh-darla](https://github.com/santosh-darla)
 
 ---
